@@ -1,0 +1,1 @@
+ com.example.model.strategy.educationalGame.EducationalGame  subject null test null materialSource null mode EASY name mortal author author releaseDate 01/04/2009 gameEngine  graphics 3D onlineStatus online type educational

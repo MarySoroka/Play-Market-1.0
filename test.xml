@@ -1,0 +1,33 @@
+{
+  "games" : [ {
+    "typeOfGame" : "combatGame",
+    "maxNumberOfPlayers" : 10,
+    "currentLevel" : 1,
+    "name" : "mortal",
+    "author" : "author",
+    "releaseDate" : "02/05/2001",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "mode" : "easy",
+    "type" : "combat",
+    "combatCharacter" : "cetrion",
+    "enemy" : "kronika"
+  }, {
+    "typeOfGame" : "combatGame",
+    "maxNumberOfPlayers" : 10,
+    "currentLevel" : 1,
+    "name" : "mortal",
+    "author" : "author",
+    "releaseDate" : "02/05/2001",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "mode" : "easy",
+    "type" : "combat",
+    "combatCharacter" : "cetrion",
+    "enemy" : "geras"
+  } ]
+}

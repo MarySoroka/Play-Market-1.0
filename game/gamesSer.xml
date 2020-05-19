@@ -1,0 +1,102 @@
+{
+  "games" : [ {
+    "typeOfGame" : "combatGame",
+    "maxNumberOfPlayers" : 2,
+    "currentLevel" : 1,
+    "name" : "Mortal",
+    "author" : "ubisoft",
+    "releaseDate" : "10/00/2005",
+    "graphics" : {
+      "graphicsMode" : "2D"
+    },
+    "onlineStatus" : "offline",
+    "mode" : "easy",
+    "type" : "combat",
+    "combatCharacter" : "kollector",
+    "enemy" : "kollector"
+  }, {
+    "typeOfGame" : "raceGame",
+    "car" : "BMW",
+    "trace" : "SPRING",
+    "name" : "Forza",
+    "author" : "Microsoft",
+    "releaseDate" : "30/00/2016",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "offline",
+    "type" : "race",
+    "maxNumberOfPlayers" : 2,
+    "currentLevel" : 1
+  }, {
+    "typeOfGame" : "educationalGame",
+    "name" : "Lingoda",
+    "author" : "Google",
+    "releaseDate" : "19/00/1998",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "type" : "educational",
+    "mode" : "easy",
+    "subject" : "MATH",
+    "test" : "test  subject math",
+    "materialSource" : "null"
+  }, {
+    "typeOfGame" : "mazeGame",
+    "mode" : "easy",
+    "labyrinth" : "forest",
+    "name" : "Mazyyy",
+    "author" : "Company",
+    "releaseDate" : "05/00/2008",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "type" : "maze",
+    "maxNumberOfPlayers" : 4,
+    "currentLevel" : 1
+  }, {
+    "typeOfGame" : "raceGame",
+    "car" : "BMW",
+    "trace" : "SUMMER",
+    "name" : "NFS",
+    "author" : "Ubisoft",
+    "releaseDate" : "08/12/2013",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "type" : "race",
+    "maxNumberOfPlayers" : 2,
+    "currentLevel" : 1
+  }, {
+    "typeOfGame" : "raceGame",
+    "car" : "BMW",
+    "trace" : "SPRING",
+    "name" : "Tracyray",
+    "author" : "UbyRace",
+    "releaseDate" : "31/05/1998",
+    "graphics" : {
+      "graphicsMode" : "3D"
+    },
+    "onlineStatus" : "online",
+    "type" : "race",
+    "maxNumberOfPlayers" : 8,
+    "currentLevel" : 1
+  }, {
+    "typeOfGame" : "educationalGame",
+    "name" : "Edu",
+    "author" : "Minzdrav",
+    "releaseDate" : "14/11/2005",
+    "graphics" : {
+      "graphicsMode" : "2D"
+    },
+    "onlineStatus" : "online",
+    "type" : "educational",
+    "mode" : "medium",
+    "subject" : "MATH",
+    "test" : "test  subject math",
+    "materialSource" : null
+  } ]
+}
